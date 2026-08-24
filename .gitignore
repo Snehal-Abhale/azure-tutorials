@@ -1,0 +1,8 @@
+# Node
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+appsettings.Development.json
